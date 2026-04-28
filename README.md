@@ -7,7 +7,7 @@
 - 🌱 Currently learning SQL, Python & Power BI
 
 ## 🛠️ Skills
-- **Tools:** Power BI, Excel
+- **Tools:** Power BI, Tableau, Excel
 - **Languages:** SQL, Python
 - **Domains:** Data Analytics, Data Visualization
 
