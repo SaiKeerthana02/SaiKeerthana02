@@ -2,20 +2,20 @@
 
 ## 🙋‍♀️ About Me
 - 👩‍💻 B.Tech Information Technology Graduate
-💻 Aspiring Software Engineer
-☕ Java | Spring Boot | REST APIs | Microservices
-🗄️ SQL | MySQL | MongoDB
-📊 Data Analytics | Power BI
-🚀 Building real-world software applications and continuously learning
+- 💻 Aspiring Software Engineer
+- ☕ Java | Spring Boot | REST APIs | Microservices
+- 🗄️ SQL | MySQL | MongoDB
+- 📊 Data Analytics | Power BI
+- 🚀 Building real-world software applications and continuously learning
 
 ## 🛠️ Skills
-• Languages: Java, Python, SQL, JavaScript
-• Backend: Spring Boot, REST APIs, Microservices, FastAPI
-• Databases: MySQL, MongoDB
-• Distributed Systems: Apache Kafka, Event-Driven Architecture
-• Tools: Git, GitHub, Maven, Docker, Postman
-• Frontend: React.js, HTML5, CSS3
-• Data & BI: Power BI, DAX, Power Query
+- Languages: Java, Python, SQL, JavaScript
+- Backend: Spring Boot, REST APIs, Microservices, FastAPI
+- Databases: MySQL, MongoDB
+- Distributed Systems: Apache Kafka, Event-Driven Architecture
+- Tools: Git, GitHub, Maven, Docker, Postman
+- Frontend: React.js, HTML5, CSS3
+- Data & BI: Power BI, DAX, Power Query
 
 ## 📂 Projects
 | Project | Tools | Link |
