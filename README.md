@@ -20,9 +20,9 @@
 ## 📂 Projects
 | Project | Tools | Link |
 |---------|-------|------|
-| Spring Boot Microservices Application | Java | Spring Boot | Kafka | MySQL | REST APIs | [view](https://github.com/SaiKeerthana02/spring-boot-microservices-master.git) |
-| AI Chatbot Application | Python | FastAPI | React.js | REST APIs | [view](http://github.com/SaiKeerthana02/Chatbot-Master) |
-| College Event Management System | React.js | Node.js | Express.js | MongoDB | CSS | [view](https://github.com/SaiKeerthana02/college-event-management-system) |
+| Spring Boot Microservices Application | Java, Spring Boot, Kafka, MySQL, REST APIs | [View](https://github.com/SaiKeerthana02/spring-boot-microservices-master) |
+| AI Chatbot Application | Python, FastAPI, React.js, REST APIs | [View](https://github.com/SaiKeerthana02/Chatbot-Master) |
+| College Event Management System | React.js, Node.js, Express.js, MongoDB, CSS | [View](https://github.com/SaiKeerthana02/college-event-management-system) |
 | Meta Ad Performance Dashboard | Power BI | [View](https://github.com/SaiKeerthana02/Meta_Ad_Performance_Dashboard) |
 | Bank Loan Report | SQL, Python, Power BI | [View](https://github.com/SaiKeerthana02/Bank-Loan-Report) |
 
